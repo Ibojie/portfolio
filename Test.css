@@ -1,0 +1,167 @@
+/* CSS for CLASS */
+
+body {
+    background-color: blue;
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.alhaja {
+    background-color: burlywood;
+}
+
+h1.format {
+    font: normal bold 25px "roboto black";
+    margin-top: 10px;
+    color: rgb(19, 100, 250);
+}
+
+.email-format {
+    font: italic normal 20px verdana;
+    color: rgb(19, 127, 250);
+}
+
+p {
+    font-family: poppins;
+    font-size: 17px;
+    font-weight: bold;
+    color: rgb(19, 73, 250);
+    text-align: center;
+    margin-top: 40px;
+}
+
+.bukky {
+    color: crimson;
+}
+
+.text-border {
+    /* border: 1px solid rgb(36, 36, 53); */
+    /* margin: 1em 2em 1em 4.5em; */
+    padding: 1% 3% 1% 3%;
+    line-height: 27px;
+}
+
+.canvas {
+    background-color: rgb(167, 122, 33);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.Canvas-size {
+    background-color: rgb(252, 251, 249);
+    border: 1px solid black;
+    width: 700px;
+    height: 500px;
+    border-radius: 12px;
+}
+
+.img {
+    margin-top: 30px;
+    margin-left: 10px;
+    border-radius: 40%;
+    /* background-color: red; */
+    display: flex;
+    text-align: left;
+}
+
+.arrange-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex-direction: row;
+    background-color: burlywood;
+}
+
+.text-format {
+    margin-left: 30px;
+    padding: 20px
+}
+
+.footer {
+    margin-top: 50px;
+}
+
+.icons {
+    /* background-color: chartreuse; */
+    display: flex;
+    justify-content: space-around;
+}
+
+
+/* CSS for TEST
+
+body {
+    background-color: blue;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+h1.format {
+    font: normal bold 25px "roboto black";
+    margin-top: 10px;
+}
+
+p.format {
+    font-family: poppins;
+    font-size: 17px;
+    text-align: justify;
+}
+
+.text-border {
+    border: 1px solid rgb(59, 59, 252);
+    margin: 1em 3em 1em 3em;
+    padding: 1% 3% 1% 3%;
+    line-height: 27px;
+}
+
+.canvas {
+    background-color: rgb(167, 122, 33);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.text-box {
+    display: float;
+}
+
+.Canvas-flex {
+    background-color: rgb(252, 251, 249);
+    border: 1px solid black;
+    width: 500px;
+    height: 700px;
+}
+
+.img-test {
+    margin-top: 20px;
+    border-radius: 50%;
+    float: left
+}
+
+.icons {
+    background-color: chartreuse;
+    display: flex;
+    /* align-items: initial; */
+
+justify-content: space-around;
+
+}
+*/
